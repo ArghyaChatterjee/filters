@@ -4,5 +4,10 @@ This library provides a standardized interface for processing data as a sequence
 ## ANYmal_C Passthrough Filter
 Added a launch file for ANYmal_C robot for pointcloud filtering.
 
+## Launch
+```
+roslaunch filters anymal_c_pass_through_filter.launch
+```
+
 ## Wiki
 Full Documentation can be found on: http://wiki.ros.org/filters
